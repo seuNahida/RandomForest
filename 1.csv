@@ -1,0 +1,453 @@
+Weather,Road_Type,Time_of_Day,Traffic_Density,Speed_Limit,Number_of_Vehicles,Driver_Alcohol,Accident_Severity,Road_Condition,Vehicle_Type,Road_Light_Condition,Accident
+Clear,Highway,Evening,high,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Clear,Highway,Morning,low,medium,less,NO,Low,Under Construction,Car,No Light,0
+Rainy,Highway,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Morning,medium,low,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Evening,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,low,high,less,NO,High,Dry,Car,Artificial Light,0
+Snowy,Highway,Afternoon,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Snowy,Highway,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,high,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Afternoon,medium,high,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Evening,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Night,medium,medium,less,NO,Moderate,Wet,Motorcycle,Daylight,1
+Rainy,Highway,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Night,medium,medium,less,NO,Low,Dry,Bus,Artificial Light,0
+Stormy,Rural Road,Evening,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Rainy,City Road,Evening,medium,medium,less,NO,Low,Icy,Bus,Artificial Light,0
+Foggy,Highway,Afternoon,medium,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Afternoon,high,medium,less,YES,Moderate,Icy,Car,Daylight,0
+Rainy,Highway,Evening,high,low,less,YES,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Afternoon,high,medium,less,YES,Low,Dry,Motorcycle,Daylight,1
+Clear,Highway,Afternoon,low,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Foggy,Highway,Evening,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Rural Road,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Evening,low,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Rainy,Highway,Night,medium,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Snowy,Highway,Morning,high,medium,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Rainy,Highway,Afternoon,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Morning,medium,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Evening,medium,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Clear,Mountain Road,Afternoon,low,low,less,YES,Moderate,Dry,Motorcycle,Daylight,1
+Foggy,Highway,Night,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Evening,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,high,high,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,City Road,Night,medium,low,less,NO,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,low,low,less,NO,Low,Icy,Car,Daylight,0
+Stormy,City Road,Afternoon,low,medium,less,NO,Low,Under Construction,Motorcycle,Daylight,1
+Foggy,Highway,Evening,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,Rural Road,Night,medium,low,less,YES,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Night,medium,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Snowy,Rural Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Evening,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Mountain Road,Afternoon,medium,low,less,YES,Moderate,Wet,Car,Artificial Light,1
+Clear,City Road,Evening,medium,high,much,YES,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Evening,medium,medium,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Rainy,Rural Road,Evening,high,low,less,NO,Moderate,Dry,Bus,Artificial Light,0
+Clear,Highway,Evening,medium,medium,less,YES,High,Dry,Car,Artificial Light,0
+Clear,City Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Mountain Road,Evening,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Mountain Road,Afternoon,low,medium,less,YES,High,Dry,Bus,Artificial Light,0
+Foggy,City Road,Afternoon,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Morning,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Mountain Road,Night,low,low,less,NO,Low,Icy,Motorcycle,Daylight,1
+Clear,Rural Road,Afternoon,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Stormy,Highway,Morning,medium,medium,less,NO,High,Icy,Car,Daylight,0
+Clear,City Road,Evening,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Snowy,Highway,Morning,medium,medium,less,YES,Moderate,Dry,Car,Daylight,0
+Foggy,Highway,Morning,medium,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,City Road,Morning,low,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Rainy,Rural Road,Afternoon,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,low,medium,less,YES,Moderate,Wet,Car,Artificial Light,1
+Foggy,City Road,Morning,medium,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Evening,low,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,medium,medium,less,YES,High,Under Construction,Car,Daylight,0
+Clear,City Road,Morning,medium,high,less,NO,High,Dry,Car,Artificial Light,0
+Rainy,City Road,Afternoon,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Mountain Road,Evening,medium,low,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,Highway,Evening,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Snowy,Rural Road,Evening,medium,low,less,NO,Low,Wet,Motorcycle,Daylight,1
+Clear,Highway,Evening,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Rainy,Highway,Afternoon,low,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Foggy,Rural Road,Evening,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,medium,low,less,NO,Low,Dry,Motorcycle,Daylight,1
+Snowy,Rural Road,Night,high,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,high,medium,less,YES,Moderate,Icy,Car,Daylight,0
+Rainy,Highway,Afternoon,low,medium,less,YES,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Morning,low,medium,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Rainy,Rural Road,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Night,medium,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Night,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,low,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,high,high,much,NO,Moderate,Under Construction,Car,No Light,0
+Rainy,City Road,Morning,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Foggy,Rural Road,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,City Road,Night,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,medium,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Clear,Rural Road,Afternoon,high,high,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,City Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Morning,high,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Rainy,Highway,Evening,medium,low,less,NO,Low,Dry,Truck,No Light,1
+Clear,City Road,Evening,low,low,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,medium,low,less,YES,High,Icy,Car,Daylight,0
+Rainy,Rural Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Evening,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,high,medium,less,NO,Low,Dry,Truck,No Light,1
+Clear,City Road,Afternoon,low,high,less,NO,Moderate,Dry,Car,Artificial Light,0
+Stormy,Highway,Morning,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Morning,high,medium,less,NO,Moderate,Wet,Motorcycle,Daylight,1
+Rainy,City Road,Morning,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Afternoon,low,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Rainy,City Road,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Foggy,Highway,Afternoon,low,medium,less,NO,Moderate,Icy,Motorcycle,Daylight,1
+Clear,Highway,Morning,medium,medium,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Snowy,Highway,Night,high,low,less,NO,High,Dry,Bus,Artificial Light,0
+Foggy,Highway,Afternoon,medium,high,less,YES,Low,Dry,Bus,Artificial Light,0
+Clear,Highway,Morning,high,medium,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Snowy,City Road,Afternoon,medium,medium,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Foggy,Highway,Afternoon,medium,low,less,NO,Low,Under Construction,Car,No Light,0
+Foggy,City Road,Morning,low,medium,less,NO,Low,Dry,Truck,No Light,1
+Clear,Highway,Afternoon,low,low,less,NO,Moderate,Dry,Car,Daylight,0
+Stormy,Highway,Night,low,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Clear,Highway,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Artificial Light,0
+Foggy,City Road,Afternoon,medium,medium,less,NO,High,Wet,Car,No Light,0
+Clear,City Road,Afternoon,high,medium,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Rainy,City Road,Morning,low,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,high,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Foggy,Highway,Evening,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Rural Road,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,high,low,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Morning,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,medium,low,less,YES,Low,Icy,Car,Daylight,0
+Clear,Highway,Night,high,medium,less,YES,Low,Dry,Bus,Artificial Light,0
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Afternoon,low,medium,less,NO,Low,Dry,Truck,No Light,1
+Clear,Highway,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,low,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Snowy,Highway,Morning,high,low,less,YES,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Night,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,medium,low,less,NO,High,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,low,medium,less,NO,High,Icy,Car,Daylight,0
+Rainy,Highway,Night,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,low,high,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Clear,Highway,Evening,high,low,less,NO,High,Dry,Motorcycle,Artificial Light,1
+Foggy,Mountain Road,Night,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Foggy,City Road,Afternoon,low,medium,less,NO,High,Dry,Truck,Daylight,1
+Stormy,Highway,Evening,high,high,less,YES,Low,Icy,Car,Daylight,0
+Clear,Highway,Morning,high,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Clear,Highway,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Snowy,City Road,Night,medium,medium,less,NO,High,Dry,Bus,Artificial Light,0
+Foggy,Rural Road,Morning,medium,medium,less,YES,Moderate,Under Construction,Car,No Light,0
+Clear,City Road,Afternoon,high,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Snowy,Highway,Morning,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Afternoon,low,medium,less,NO,High,Dry,Car,Artificial Light,0
+Snowy,Highway,Afternoon,low,medium,less,NO,High,Under Construction,Car,Daylight,0
+Foggy,City Road,Evening,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Morning,high,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Foggy,City Road,Night,low,high,much,YES,Low,Icy,Car,Daylight,0
+Rainy,City Road,Evening,high,medium,less,NO,Moderate,Icy,Bus,Artificial Light,0
+Rainy,City Road,Afternoon,medium,medium,less,NO,High,Dry,Motorcycle,Artificial Light,1
+Rainy,City Road,Morning,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,City Road,Morning,medium,high,much,NO,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Afternoon,medium,high,much,NO,Moderate,Wet,Car,Artificial Light,1
+Snowy,Highway,Morning,high,low,less,YES,Moderate,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Afternoon,low,low,less,NO,Low,Icy,Car,Daylight,0
+Rainy,City Road,Evening,medium,high,much,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Rural Road,Afternoon,low,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Rural Road,Afternoon,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Stormy,Highway,Morning,low,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,City Road,Afternoon,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Rainy,Rural Road,Morning,high,medium,less,YES,Low,Icy,Car,Daylight,0
+Clear,Highway,Night,high,medium,less,NO,High,Icy,Car,Daylight,0
+Clear,Highway,Morning,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,City Road,Evening,low,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Rainy,Highway,Night,low,low,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Mountain Road,Night,high,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Rainy,Mountain Road,Morning,low,low,less,NO,Moderate,Under Construction,Car,No Light,0
+Snowy,City Road,Afternoon,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Evening,low,medium,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Clear,Highway,Afternoon,medium,medium,less,YES,Moderate,Wet,Car,Artificial Light,1
+Clear,Highway,Night,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Morning,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Stormy,City Road,Evening,high,medium,less,YES,High,Dry,Truck,No Light,1
+Rainy,Highway,Afternoon,low,medium,less,NO,Low,Under Construction,Car,No Light,0
+Clear,Highway,Afternoon,medium,low,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Rainy,City Road,Afternoon,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,low,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Stormy,Highway,Evening,medium,high,much,NO,Moderate,Dry,Car,Daylight,0
+Clear,Mountain Road,,high,low,less,YES,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Morning,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Mountain Road,Afternoon,low,medium,less,NO,Low,Dry,Bus,Artificial Light,0
+Rainy,City Road,Afternoon,low,medium,less,NO,High,Icy,Car,Daylight,0
+Rainy,Mountain Road,Morning,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Stormy,Rural Road,Morning,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Foggy,Highway,Morning,medium,medium,less,NO,Low,Icy,Motorcycle,Daylight,1
+Rainy,Highway,Afternoon,low,medium,less,NO,High,Wet,Car,No Light,0
+Stormy,Highway,Night,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Rural Road,Morning,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Snowy,Rural Road,Evening,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Rural Road,Evening,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Snowy,City Road,Morning,medium,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Snowy,City Road,Night,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Night,high,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Foggy,Highway,Morning,high,low,less,YES,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Evening,medium,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Clear,Rural Road,Afternoon,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,high,low,less,NO,Moderate,Under Construction,Car,No Light,0
+Rainy,Highway,Afternoon,medium,medium,less,NO,High,Dry,Truck,Daylight,1
+Clear,Highway,Morning,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Evening,low,medium,less,NO,High,Dry,Car,Artificial Light,0
+Rainy,Mountain Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Rural Road,Night,medium,high,less,NO,Moderate,Icy,Bus,Artificial Light,0
+Rainy,Highway,Evening,high,medium,less,YES,Low,Under Construction,Car,No Light,0
+Rainy,Highway,Morning,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Morning,low,low,less,NO,High,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,medium,low,less,NO,Low,Dry,Motorcycle,Daylight,1
+Clear,Highway,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Mountain Road,Evening,high,medium,less,YES,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Afternoon,high,low,less,NO,Low,Icy,Car,Daylight,0
+Foggy,City Road,Night,medium,medium,less,NO,Low,Dry,Truck,No Light,1
+Clear,Highway,Evening,medium,low,less,YES,Low,Dry,Car,Artificial Light,0
+Snowy,Rural Road,Afternoon,high,low,less,YES,Moderate,Dry,Car,Daylight,0
+Clear,Mountain Road,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,low,low,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Highway,Morning,medium,high,much,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Afternoon,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Afternoon,high,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Rainy,Rural Road,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Stormy,City Road,Afternoon,medium,medium,less,NO,High,Wet,Car,No Light,0
+Foggy,Highway,Evening,medium,low,less,NO,Moderate,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Night,medium,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Rainy,Mountain Road,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Morning,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Foggy,City Road,Morning,medium,low,less,NO,Low,Wet,Car,Artificial Light,1
+Stormy,Highway,Night,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Rainy,Mountain Road,Morning,high,low,less,NO,Moderate,Dry,Motorcycle,Daylight,1
+Snowy,Highway,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,City Road,Evening,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Afternoon,medium,high,less,NO,High,Wet,Bus,Artificial Light,0
+Foggy,Rural Road,Morning,low,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Clear,Highway,Evening,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,medium,low,less,YES,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Morning,low,low,less,NO,Moderate,Icy,Car,Daylight,0
+Foggy,Highway,Afternoon,medium,medium,less,NO,High,Icy,Car,Daylight,0
+Rainy,Highway,Morning,medium,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,medium,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Snowy,City Road,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Rural Road,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Mountain Road,Evening,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,high,medium,less,NO,High,Dry,Motorcycle,Artificial Light,1
+Clear,Highway,Night,high,low,less,YES,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Morning,high,high,much,NO,Low,Under Construction,Car,No Light,0
+Snowy,City Road,Evening,low,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,City Road,Afternoon,medium,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Rainy,City Road,Night,high,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Snowy,Rural Road,Morning,medium,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,City Road,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Afternoon,medium,low,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Rural Road,Afternoon,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Evening,medium,high,much,NO,Moderate,Icy,Car,Daylight,0
+Rainy,Highway,Afternoon,high,medium,less,NO,High,Wet,Car,No Light,0
+Foggy,City Road,Evening,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Rural Road,Evening,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Stormy,Highway,Morning,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,City Road,Night,low,low,less,YES,Moderate,Dry,Motorcycle,Daylight,1
+Rainy,Mountain Road,Afternoon,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Rural Road,Afternoon,medium,medium,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,High,Icy,Car,Daylight,0
+Clear,City Road,Afternoon,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Clear,Rural Road,Morning,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,medium,low,less,YES,Moderate,Dry,Car,Daylight,0
+Rainy,Highway,Afternoon,low,medium,less,NO,Low,Under Construction,Car,No Light,0
+Rainy,City Road,Morning,high,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Foggy,Highway,Evening,high,low,less,NO,High,Wet,Car,No Light,0
+Clear,Rural Road,Night,medium,low,less,YES,Low,Dry,Motorcycle,Daylight,1
+Foggy,Rural Road,Evening,low,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Foggy,City Road,Evening,low,medium,less,NO,Moderate,Under Construction,Motorcycle,Daylight,1
+Foggy,City Road,Afternoon,low,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Rainy,Highway,Night,medium,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Rainy,Highway,Evening,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Night,medium,low,less,YES,Moderate,Dry,Car,Daylight,0
+Foggy,Highway,Evening,low,medium,less,YES,High,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,low,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,high,low,less,YES,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Night,medium,low,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,City Road,Afternoon,medium,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Foggy,Mountain Road,Afternoon,medium,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Rainy,City Road,Morning,low,low,less,NO,High,Icy,Motorcycle,Daylight,1
+Rainy,Rural Road,Evening,high,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Clear,Highway,Morning,low,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Night,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Rural Road,Afternoon,medium,low,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Clear,City Road,Afternoon,low,medium,less,NO,Moderate,Under Construction,Motorcycle,Daylight,1
+Foggy,Highway,Night,low,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Rainy,Rural Road,Afternoon,medium,medium,less,NO,Low,Dry,Truck,No Light,1
+Snowy,Highway,Morning,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Snowy,City Road,Morning,medium,medium,less,YES,Low,Icy,Car,Daylight,0
+Clear,City Road,Evening,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Night,medium,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Rural Road,Afternoon,medium,low,less,YES,Low,Icy,Car,Daylight,0
+Foggy,Highway,Afternoon,medium,low,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Rural Road,Evening,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Morning,high,medium,less,NO,High,Dry,Car,Artificial Light,0
+Snowy,Highway,Evening,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Clear,City Road,Afternoon,medium,low,less,NO,Low,Wet,Motorcycle,Daylight,1
+Stormy,Mountain Road,Evening,high,low,less,NO,Low,Dry,Bus,Artificial Light,0
+Clear,Rural Road,Afternoon,low,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,Rural Road,Morning,medium,medium,less,NO,Moderate,Icy,Car,Daylight,0
+Clear,City Road,Evening,medium,high,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Morning,high,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Night,medium,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Afternoon,medium,low,less,YES,Moderate,Icy,Car,Daylight,0
+Rainy,Highway,Evening,high,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Foggy,Rural Road,Afternoon,high,medium,less,YES,Moderate,Under Construction,Car,No Light,0
+Foggy,City Road,Evening,low,medium,less,YES,Low,Icy,Car,Daylight,0
+Clear,City Road,Morning,medium,high,less,NO,Moderate,Wet,Car,Artificial Light,1
+Foggy,Rural Road,Morning,low,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,low,less,NO,Low,Dry,Motorcycle,Artificial Light,1
+Clear,City Road,Morning,low,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Clear,City Road,Night,medium,low,less,NO,Low,Dry,Motorcycle,Daylight,1
+Rainy,Rural Road,Night,low,low,less,YES,Low,Dry,Car,Artificial Light,0
+Snowy,Rural Road,Afternoon,high,low,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,Rural Road,Morning,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Rural Road,Evening,low,high,less,YES,Moderate,Wet,Car,Artificial Light,1
+Rainy,Highway,Morning,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Rainy,Highway,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Evening,high,low,less,NO,Low,Wet,Car,Artificial Light,1
+Foggy,Highway,Afternoon,low,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Evening,low,high,less,NO,Low,Dry,Truck,No Light,1
+Foggy,Highway,Morning,low,medium,less,NO,Low,Dry,Truck,No Light,1
+Clear,Highway,Morning,high,medium,less,NO,Low,Under Construction,Car,No Light,0
+Snowy,City Road,Night,high,medium,less,YES,High,Dry,Car,Artificial Light,0
+Rainy,Highway,Night,high,low,less,NO,Low,Icy,Car,Daylight,0
+Snowy,Rural Road,Evening,high,low,less,NO,High,Dry,Truck,No Light,1
+Rainy,Highway,Evening,low,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,City Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Morning,medium,medium,less,NO,Low,Under Construction,Motorcycle,Daylight,1
+Clear,Rural Road,Evening,medium,medium,less,YES,High,Dry,Truck,No Light,1
+Rainy,Highway,Afternoon,low,medium,less,NO,Low,Under Construction,Car,Daylight,0
+Snowy,Rural Road,Night,medium,medium,less,NO,Low,Under Construction,Car,No Light,0
+Clear,City Road,Evening,medium,medium,less,NO,Moderate,Dry,Bus,Artificial Light,0
+Rainy,Highway,Night,medium,low,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Evening,medium,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Rural Road,Night,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Afternoon,low,medium,less,NO,Low,Dry,Truck,No Light,1
+Foggy,Highway,Evening,high,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Afternoon,medium,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,high,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Rainy,Rural Road,Afternoon,high,low,less,NO,Low,Wet,Car,Artificial Light,1
+Rainy,Highway,Morning,high,medium,less,NO,High,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,City Road,Afternoon,high,low,less,NO,High,Wet,Car,No Light,0
+Clear,City Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Stormy,City Road,Afternoon,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Highway,Night,medium,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Foggy,City Road,Morning,medium,low,less,NO,Low,Icy,Car,Daylight,0
+Stormy,Highway,Night,medium,low,less,YES,Low,Under Construction,Motorcycle,Daylight,1
+Clear,Rural Road,Afternoon,low,medium,less,YES,Low,Under Construction,Car,No Light,0
+Rainy,City Road,Night,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Stormy,City Road,Evening,low,high,much,YES,High,Dry,Car,Artificial Light,0
+Clear,Highway,Night,high,low,less,NO,Low,Icy,Car,Daylight,0
+Clear,Rural Road,Evening,high,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,low,medium,less,NO,High,Under Construction,Car,Daylight,0
+Clear,City Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Morning,high,medium,less,NO,High,Wet,Car,Artificial Light,1
+Clear,City Road,Afternoon,high,medium,less,NO,Low,Under Construction,Bus,Artificial Light,0
+Clear,Highway,Afternoon,medium,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Clear,Highway,Night,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Afternoon,high,low,less,NO,Low,Under Construction,Motorcycle,Daylight,1
+Clear,Highway,Morning,low,medium,less,NO,Low,Dry,Motorcycle,Daylight,1
+Rainy,City Road,Evening,high,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Highway,Evening,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,City Road,Afternoon,high,medium,less,NO,Low,Dry,Bus,Artificial Light,0
+Stormy,City Road,Evening,medium,high,much,NO,Low,Icy,Car,Daylight,0
+Rainy,City Road,Afternoon,high,low,less,NO,Low,Dry,Truck,No Light,1
+Rainy,City Road,Afternoon,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Rainy,Highway,Evening,low,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Snowy,Rural Road,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Morning,medium,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Afternoon,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Clear,Rural Road,Afternoon,high,medium,less,NO,Low,Icy,Bus,Artificial Light,0
+Clear,City Road,Night,high,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Rural Road,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Evening,medium,medium,less,NO,Moderate,Under Construction,Car,No Light,0
+Foggy,Highway,Afternoon,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Snowy,Highway,Night,low,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Morning,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Afternoon,low,medium,less,NO,High,Dry,Car,Artificial Light,0
+Clear,City Road,Evening,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Rural Road,Afternoon,high,medium,less,YES,Low,Under Construction,Car,No Light,0
+Clear,Highway,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Night,high,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,City Road,Afternoon,high,low,less,YES,Low,Dry,Car,Artificial Light,0
+Rainy,Highway,Evening,low,medium,less,NO,High,Icy,Car,Daylight,0
+Clear,Highway,Evening,high,medium,less,NO,Low,Under Construction,Car,No Light,0
+Foggy,City Road,Evening,low,low,less,NO,Low,Under Construction,Motorcycle,Daylight,1
+Clear,City Road,Afternoon,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Night,medium,low,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Morning,low,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Clear,Highway,Evening,medium,medium,less,NO,Moderate,Dry,Bus,Artificial Light,0
+Rainy,Rural Road,Morning,low,medium,less,YES,Low,Under Construction,Car,No Light,0
+Rainy,Highway,Evening,low,medium,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,Highway,Night,medium,high,less,NO,Moderate,Wet,Car,Artificial Light,1
+Snowy,Mountain Road,Morning,low,low,less,NO,Low,Icy,Car,Daylight,0
+Clear,City Road,Morning,low,medium,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Rural Road,Evening,medium,medium,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Rural Road,Afternoon,medium,low,less,NO,Low,Dry,Car,Artificial Light,0
+Foggy,Highway,Evening,low,medium,less,YES,Low,Wet,Car,Artificial Light,1
+Clear,City Road,Morning,low,medium,less,NO,Low,Wet,Motorcycle,Daylight,1
+Clear,City Road,Afternoon,medium,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Rainy,City Road,Night,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Stormy,Rural Road,Afternoon,high,low,less,NO,Moderate,Icy,Motorcycle,Daylight,1
+Rainy,Mountain Road,Afternoon,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,medium,low,less,NO,Moderate,Dry,Car,Daylight,0
+Clear,City Road,Afternoon,low,high,much,NO,Low,Dry,Motorcycle,Daylight,1
+Stormy,Rural Road,Evening,low,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Evening,low,medium,less,NO,Moderate,Dry,Car,Artificial Light,0
+Clear,City Road,Morning,high,low,less,NO,High,Dry,Car,Artificial Light,0
+Clear,Highway,Afternoon,high,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Clear,Highway,Night,low,high,less,NO,Moderate,Icy,Car,Daylight,0
+Rainy,Highway,Afternoon,medium,medium,less,NO,Moderate,Dry,Bus,Artificial Light,0
+Rainy,City Road,Morning,high,low,less,NO,Low,Dry,Car,Artificial Light,0
+Rainy,Rural Road,Evening,high,low,less,NO,High,Icy,Car,Daylight,0
+Clear,Highway,Afternoon,high,medium,less,YES,Moderate,Dry,Car,Daylight,0
+Rainy,City Road,Afternoon,high,low,less,NO,Low,Under Construction,Motorcycle,Daylight,1
+Clear,City Road,Morning,medium,medium,less,NO,Low,Wet,Car,Artificial Light,1
+Stormy,City Road,Afternoon,low,low,less,NO,High,Dry,Car,Artificial Light,0
+Snowy,City Road,Evening,medium,low,less,NO,Low,Wet,Car,Artificial Light,1
+Foggy,Highway,Afternoon,low,medium,less,YES,Low,Dry,Car,Artificial Light,0
+Clear,Highway,Night,low,medium,less,NO,Low,Icy,Car,Daylight,0
+Snowy,Highway,Evening,medium,medium,less,NO,Moderate,Wet,Car,Artificial Light,1
+Clear,Highway,Afternoon,medium,medium,less,YES,Moderate,Icy,Motorcycle,Daylight,1
