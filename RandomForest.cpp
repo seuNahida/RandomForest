@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include <vector>
 #include <map>
 #include <string>
@@ -258,13 +258,13 @@ void loadAll(map<string, vector<string>>& data, map<string, vector<string>>& tes
 		}
 		else {
 			if (dis(key)) {
-				for (size_t i = 0; i < row.size() - 1; ++i) {
+				for (int i = 0; i < row.size() - 1; ++i) {
 					test[headers[i]].push_back(row[i]);
 				}
 				testLabel.push_back(stoi(row.back()));
 			}
 			else {
-				for (size_t i = 0; i < row.size() - 1; ++i) {
+				for (int i = 0; i < row.size() - 1; ++i) {
 					data[headers[i]].push_back(row[i]);
 				}
 				label.push_back(stoi(row.back()));
